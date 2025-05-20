@@ -5,5 +5,5 @@ This is a super simple extension that captures HTTP traffic that contains unusua
 
 CHANGELOG
 
-5/2/2025
+5/20/2025
 - Added the ability to ignore captured headers in future HTTP requests
